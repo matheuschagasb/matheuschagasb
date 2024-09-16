@@ -4,7 +4,7 @@
 <hr>
 
 <p>🎓 Graduating in Information Systems at <a href="https://www.puc-campinas.edu.br/#" target="blank_">PUCCAMP</a></p>
-<p>👨‍💻 At the moment I am dedicating myself to studying with the aim of delving deeper into Python for the Backend and SQL for the Database</p>
+<p>👨‍💻 I am currently improving my studies by delving deeper into Python for Backend and SQL for Database</p>
 <p>📚 I am currently studying new technologies and always looking to expand my knowledge</p>
 <p>🔠 Basic English Level</p>
 <hr>
