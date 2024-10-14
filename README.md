@@ -1,6 +1,6 @@
 <p>👋 Welcome to my github!</p>
 
-<p>💻 Software Developer</p>
+<p>💻 Backend Developer</p>
 <hr>
 
 <p>🎓 Graduating in Information Systems at <a href="https://www.puc-campinas.edu.br/#" target="blank_">PUCCAMP</a></p>
