@@ -2,7 +2,7 @@
 
 <p>💻 Backend Developer</p>
 
-<p>I currently work as an IT Support Analyst Intern at <a href="https://ciandt.com/" target="blank_">CI&T</a></p>
+<p>I currently work as an IT Support Analyst Intern at <a href="[https://ciandt.com/](https://ciandt.com/br/pt-br?utm_source=&utm_medium=&utm_campaign=&utm_content=&utm_term=&hsa_acc=5740932502&hsa_cam=22166618088&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gbraid=0AAAAADkRExyo5kPYyXbscC4Rs7r9EVjfM&gclid=CjwKCAjwk43ABhBIEiwAvvMEB9YL1U1Pstod0tENdAOyGShtbTCwLqxwR4GgxBwx__UatfUIVugs3hoC-nkQAvD_BwE)" target="blank_">CI&T</a></p>
 <hr>
 
 <p>🎓 Graduating in Information Systems at <a href="https://www.puc-campinas.edu.br/#" target="blank_">PUCCAMP</a></p>
