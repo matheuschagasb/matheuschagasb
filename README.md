@@ -9,7 +9,7 @@
 <p>🔠 Basic English Level</p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=c,py,mysql,git,notion&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,mysql,git,notion&perline=10)](https://skillicons.dev)
 
 <!---
 matheuschagasb/matheuschagasb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
