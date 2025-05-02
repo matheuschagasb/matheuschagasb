@@ -4,8 +4,7 @@
 <hr>
 
 <p>🎓 Graduating in Information Systems at <a href="https://www.puc-campinas.edu.br/#" target="blank_">PUCCAMP</a></p>
-<p>👨‍💻 I am currently improving my studies by delving deeper into Python for Backend and SQL for Database</p>
-<p>📚 I am currently studying new technologies and always looking to expand my knowledge</p>
+<p>👨‍💻 I’m enhancing my skills in Python for Backend and working with SQL and MongoDB for Databases, always exploring new technologies and continuously expanding my knowledge. I also have a strong interest in C, data structures, and algorithms</p>
 <p>🔠 Basic English Level</p>
 <hr>
 
